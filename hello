@@ -1,0 +1,7 @@
+public hello {
+void hello(String a) {
+System.out.println(a);
+}
+public void static main(args[]){
+hello("jj");
+}
